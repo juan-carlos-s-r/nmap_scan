@@ -4,3 +4,5 @@ segundo los parametros que son los puestos a escanerar se puede poner uno o un r
 tercenero los argumentos ejemplo: -sS -sV -O
 cuarto si es sudo o no el cual tiene la eleccion S o N
 Y ya solo se hace enter y se esperan los resultados
+
+***Nota solo se utilizo la biblioteca de nmap que pidio el profesor*****
